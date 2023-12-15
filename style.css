@@ -1,0 +1,24 @@
+.align{
+    text-align: center;
+}
+.card-body{
+    background-color: rgb(230, 226, 222);
+}
+.card-body{
+    border-radius: 15px 15px;
+    background-color: white;
+}
+body{
+    background-color: rgb(245, 243, 241);
+}
+.fa{
+    font-size: 50px;
+    color: blue;
+}
+.full-margin{
+    margin:50px;
+}
+.container-fluid{
+    display: flex;
+    gap: 20px;
+}
